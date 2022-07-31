@@ -3,7 +3,21 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"yzhang.markdown-all-in-one",
+				"DavidAnson.vscode-markdownlint",
+				"ms-vscode.cpptools-themes",
+				"jeff-hykin.better-cpp-syntax",
+				"formulahendry.auto-close-tag",
+				"GitHub.github-vscode-theme",
+				"PKief.material-icon-theme",
+				"dustypomerleau.rust-syntax",
+				"vscodevim.vim",
+				"ms-vscode.cpptools",
+				"ms-vscode.cpptools-extension-pack",
+				"golang.go",
+				"premparihar.gotestexplorer",
+				"esbenp.prettier-vscode"
 			]
 		}
 	},
